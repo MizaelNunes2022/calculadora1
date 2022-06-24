@@ -11,7 +11,7 @@
 
 body {
     height: 100vh;
-    background-image: linear-gradient(to bottom, #1fd99e, #c8bd3a) ;
+    background-image: linear-gradient(to bottom, #1ce3a4, #e1d016) ;
     background-repeat: no-repeat;
     font-family: 'ShadowsIntoLight';
 }
@@ -41,7 +41,7 @@ body {
 }
 .calc__title {
     margin-bottom: 20px;
-    color: #673AB7;
+    color: #1bbf29;
 }
 
 .calc__field {
@@ -52,7 +52,7 @@ body {
     font-size: 16px;
     font-family: 'ShadowsIntoLight';
 
-    border: 2px solid #673AB7;
+    border: 2px solid #c0b0dd88;
     border-radius: 5px;
     transition: background-color .4s;
 }
@@ -66,8 +66,8 @@ body {
     height: 35px;
     
     color: white;
-    background-color: #9575CD;
-    border: 1px solid #9575CD;
+    background-color: #d4751c;
+    border: 1px solid #12dc29;
     border-radius: 5px;
 }
 
